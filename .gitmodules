@@ -1,0 +1,3 @@
+[submodule "Kicad Files/KiCad-Parts"]
+	path = Kicad Files/KiCad-Parts
+	url = https://github.com/topiaruss/KiCad-Parts.git
