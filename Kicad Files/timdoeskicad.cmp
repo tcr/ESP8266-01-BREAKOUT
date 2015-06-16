@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-09 BZR 5589)-product   date = Saturday, June 13, 2015 'PMt' 11:05:52 PM
+
+BeginCmp
+TimeStamp = /557CA140;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CA1CC;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CC8FD;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /557C9FF6;
+Reference = IC1;
+ValeurCmp = LM1117;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CB663;
+Reference = JP1;
+ValeurCmp = JUMPER3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CD184;
+Reference = JP2;
+ValeurCmp = JUMPER3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CB9E4;
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CA704;
+Reference = P2;
+ValeurCmp = CONN_02X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CC0A5;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CC0E8;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CA8E8;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CA8C7;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CAC45;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CC952;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CB245;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CC598;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+EndListe
